@@ -7,4 +7,6 @@ Ogni cartella contiene un argomento diverso con codici di esempio ed eventualmen
 
 ## Indice
  [Quick start](./appunti/Quick_Start/Quick_Start.md)
-[Funzioni](./appunti/Funzioni/Funzioni.md)
+
+ [Funzioni](./appunti/Funzioni/Funzioni.md)
+
