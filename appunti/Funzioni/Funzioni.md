@@ -1,7 +1,7 @@
 # Funzioni
-### veloce introduzione sulle funzioni 
+## veloce introduzione sulle funzioni 
 
-Definizione di una Funzione
+D###efinizione di una Funzione
 
 La definizione di una funzione include la dichiarazione e il corpo della funzione, che contiene il codice che verrà eseguito quando la funzione viene chiamata.
 
@@ -10,7 +10,7 @@ returnType functionName(parameter1Type parameter1Name, parameter2Type parameter2
     // Corpo della funzione
 }
 ```
-Funzioni con Valore di Ritorno
+### Funzioni con Valore di Ritorno
 
 Una funzione può restituire un valore utilizzando il tipo di ritorno specificato nella dichiarazione della funzione. Il valore di ritorno viene fornito usando l'istruzione return.
 
