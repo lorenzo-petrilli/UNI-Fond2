@@ -3,7 +3,7 @@ Repository di appunti in c++ su studio di classi,gestione memoria e implemantazi
 
 Seguendo il corso di Fondamenti di programmazione 2 dell'Unical. 
 
-Ogni cartella contiene un argomento diverso con codici di esempio ed eventualmente un file .MD con qualche spiegazione teorica.
+Ogni cartella contiene un argomento diverso con codici di esempio ed eventualmente un file .MD con qualche spiegazione teorica(se l'argomento è generico e non contiene esercizi potreste trovare solo il file .MD con la teoria).
 
 ## Indice
 

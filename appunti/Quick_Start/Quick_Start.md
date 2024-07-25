@@ -14,7 +14,7 @@
     double d;        //numero a virgola mobile con maggiore precisione 
 ```
 
-le variabili vanno sempre iniziallizzate (non usare auto)
+Le variabili vanno sempre iniziallizzate (non usare auto)
 ##### le varibili possono essere modificate con l'utilizzo di modificatori come long, short, signed e unsigned
 
 
@@ -31,7 +31,7 @@ if (a > 5) {
 ```
 ## gli operatori di confronto
 #### spieghiamo prima cosa si intende per short circiut
-nel caso degli operatori and e or usare gli short circuit abbrevia i tempi di esecuzione perchè se già alla prima condizione si annulla tutto il controllo delle altre condizioni
+Nel caso degli operatori and e or usare gli short circuit abbrevia i tempi di esecuzione perchè se già alla prima condizione si annulla tutto il controllo delle altre condizioni
 
 ```cpp
 // CONFRONTI

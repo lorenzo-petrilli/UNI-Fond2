@@ -1,7 +1,7 @@
 # Funzioni
 ## veloce introduzione sulle funzioni 
 
-D###efinizione di una Funzione
+### Definizione di una Funzione
 
 La definizione di una funzione include la dichiarazione e il corpo della funzione, che contiene il codice che verrà eseguito quando la funzione viene chiamata.
 
