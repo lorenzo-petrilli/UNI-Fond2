@@ -17,9 +17,9 @@ struct NomeStruct {
 
 |Classi|Struct|
 |-------------------|-----------------------|
-|I membri sono privati per default.|Struct: I membri sono pubblici per default.
+|I membri sono privati per default.| I membri sono pubblici per default.
 |Utilizzata principalmente per definire oggetti con incapsulamento, ereditarietà e polimorfismo.| Utilizzata per raggruppare semplici dati senza la necessità di incapsulamento.|
-|Supporta ereditarietà pubblica, protetta e privata.|Struct: Supporta ereditarietà, ma i membri ereditati sono pubblici per default.|
+|Supporta ereditarietà pubblica, protetta e privata.| Supporta ereditarietà, ma i membri ereditati sono pubblici per default.|
 |Può avere più overhead dovuto all'uso delle caratteristiche OOP.|Generalmente ha meno overhead, essendo utilizzata per dati più semplici.|
 
 # Classi
