@@ -11,6 +11,10 @@ Ogni cartella contiene un argomento diverso con codici di esempio ed eventualmen
  
  [Quick start](./appunti/Quick_Start/Quick_Start.md)
 
+ [Namespace](./appunti/Namespace/Namespace.md)
+
+ [File Header](./appunti/FIle_Header/File_Header.MD)
+
  [Funzioni](./appunti/Funzioni/Funzioni.md)
 
  [Classi](./appunti/Classi/Classi.MD)

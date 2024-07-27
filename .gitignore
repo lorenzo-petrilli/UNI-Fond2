@@ -1,0 +1,18 @@
+*.out
+# Compiled object files
+*.o
+*.obj
+# Executables
+*.exe
+# Visual Studio
+*.suo
+*.sln
+*.vcxproj
+*.vcxproj.filters
+*.user
+.vscode/
+build/
+dist/
+# Temporary files
+*.tmp
+*.swp
