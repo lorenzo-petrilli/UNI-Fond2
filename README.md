@@ -8,6 +8,8 @@ Ogni cartella contiene un argomento diverso con codici di esempio ed eventualmen
 ## Indice
 
  [TLDR](./appunti/TLDR.md)
+
+ [Come funziona c++](./appunti/Come_funziona_c++/Compilatore_e_Linker.MD)
  
  [Quick start](./appunti/Quick_Start/Quick_Start.md)
 
