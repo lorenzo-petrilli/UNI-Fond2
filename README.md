@@ -15,6 +15,8 @@ Ogni cartella contiene un argomento diverso con codici di esempio ed eventualmen
 
  [Namespace](./appunti/Namespace/Namespace.md)
 
+ [Static](./appunti/Static/Static.MD)
+
  [File Header](./appunti/FIle_Header/File_Header.MD)
 
  [Funzioni](./appunti/Funzioni/Funzioni.md)
