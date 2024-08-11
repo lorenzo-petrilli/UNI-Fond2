@@ -1,11 +1,11 @@
 # Utilizzo di Static 
 ## Come cambia quando è usato fuori oppure usato dentro una classe o struct
-quando dichiariamo una variabile come `static` in uno scope globale sarà visibile solo a quel determinato file cpp altrimenti sarà disponibile globalmente a tutta la translation unit;
-Simile  a come funziona private nelle classi 
+Quando dichiariamo una variabile come `static` in uno scope globale, sarà visibile solo a quel determinato file CPP; altrimenti, sarà disponibile globalmente a tutta la translation unit. È simile a come funziona `private` nelle classi.
+
 
 ## Differenze se utilizzato in classi o struct
 
-permette di avere una sola variabile condivisa per ogni istanza della clase o della struct, come se tutte le varibili che abbiamo dichiarato statiche in una classe quando le chiamiamo da entità diverse puntano tutte alla stessa porzione di memoria 
+Permette di avere una sola variabile condivisa per ogni istanza della classe o della struct. Questo significa che tutte le variabili dichiarate come statiche in una classe o struct, quando chiamate da entità diverse, puntano tutte alla stessa porzione di memoria. 
 
 ```cpp
 struct MyStruct {
@@ -22,8 +22,7 @@ int main() {
 }
 ```
 ## Metodo statico in una classe
-Possiamo definire static anche i metodi.Un metodo statico può essere chiamato senza creare un'istanza della classe o struct. Non ha accesso ai membri non statici della classe o struct.
-Quindi possiamo usare in un metodo static solo varibili static.
+Possiamo definire come statici anche i metodi. Un metodo statico può essere chiamato senza creare un'istanza della classe o struct. Non ha accesso ai membri non statici della classe o struct, quindi possiamo usare in un metodo statico solo variabili statiche.
 ```cpp
 class MyClass {
 public:
@@ -37,7 +36,7 @@ int main() {
 }
 ```
 ## Per il compilatore cosa cambia 
-il compilatore quando creiamo un metodo non static e come se segretamente passa un instanza della classe in cui è dichiarato come parametro della funzione, utilizzando static il compilatore non lo passa più quindi non possiamo avere accesso alle varibili
+Il compilatore, quando creiamo un metodo non statico, è come se segretamente passasse un'istanza della classe in cui è dichiarato come parametro della funzione. Utilizzando static, il compilatore non lo passa più, quindi non possiamo avere accesso alle variabili non statiche.    
 
 ```cpp
 struct Entity
