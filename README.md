@@ -22,3 +22,7 @@ Ogni cartella contiene un argomento diverso con codici di esempio ed eventualmen
  [Funzioni](./appunti/Funzioni/Funzioni.md)
 
  [Classi](./appunti/Classi/Classi.MD)
+
+ [Getter & setter](./appunti/Classi/Getter&Setter.MD)
+
+ [Utilizzo di "This"](./appunti/Classi/This.MD)
