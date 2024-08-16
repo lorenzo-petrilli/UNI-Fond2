@@ -1,0 +1,2 @@
+# Operatore Freccia "->"
+L'operatore freccia -> in C++ è un operatore di accesso a membri utilizzato per accedere ai membri (metodi o variabili) di un oggetto tramite un puntatore. In altre parole, l'operatore -> combina la dereferenziazione di un puntatore e l'accesso ai membri in un'unica operazione.
