@@ -28,3 +28,5 @@ Ogni cartella contiene un argomento diverso con codici di esempio ed eventualmen
  * [Operatore freccia "->"](./appunti/Classi/Freccia.MD)
 
  * [Static](./appunti/Static/Static.MD)
+ 
+ * [Costruttori e Distruttori](./appunti/Classi/Costruttore_Distruttore.MD)
