@@ -30,3 +30,5 @@ Ogni cartella contiene un argomento diverso con codici di esempio ed eventualmen
  * [Static](./appunti/Static/Static.MD)
  
  * [Costruttori e Distruttori](./appunti/Classi/Costruttore_Distruttore.MD)
+
+ * [Ereditarietà](./appunti/Classi/Ereditarietà.MD)
