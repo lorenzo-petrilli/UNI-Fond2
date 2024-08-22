@@ -17,6 +17,10 @@ Ogni cartella contiene un argomento diverso con codici di esempio ed eventualmen
 
  [File Header](./appunti/FIle_Header/File_Header.MD)
 
+ [Array](./appunti/Array/Array.MD)
+
+ * [Array multidimensionale](./appunti/Array/Array_multidimensionali.MD)
+
  [Funzioni](./appunti/Funzioni/Funzioni.md)
 
  [Stack vs Heap](./appunti/Stack_vs_heap/Stack_vs_heap.MD)
