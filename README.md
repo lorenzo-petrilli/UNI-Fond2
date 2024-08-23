@@ -23,6 +23,8 @@ Ogni cartella contiene un argomento diverso con codici di esempio ed eventualmen
 
  [Funzioni](./appunti/Funzioni/Funzioni.md)
 
+ [Puntatori](./appunti/Puntatori/Puntatori.MD)
+
  [Stack vs Heap](./appunti/Stack_vs_heap/Stack_vs_heap.MD)
 
  [Classi](./appunti/Classi/Classi.MD)
