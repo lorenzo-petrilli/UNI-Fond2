@@ -40,3 +40,6 @@ Ogni cartella contiene un argomento diverso con codici di esempio ed eventualmen
  * [Costruttori e Distruttori](./appunti/Classi/Costruttore_Distruttore.MD)
 
  * [Ereditarietà](./appunti/Classi/Ereditarietà.MD)
+
+ ## [Algoritmi]
+ [Approccio Divide Et Impera](./appunti/Algoritmi/Divide_et_impera.MD)
