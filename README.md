@@ -41,5 +41,7 @@ Ogni cartella contiene un argomento diverso con codici di esempio ed eventualmen
 
  * [Ereditarietà](./appunti/Classi/Ereditarietà.MD)
 
- ## [Algoritmi]
+## [Algoritmi]
  [Approccio Divide Et Impera](./appunti/Algoritmi/Divide_et_impera.MD)
+ ### Implementazioni
+ * [Ricerca_binaria](./appunti/Algoritmi/Ricerca_binaria.h)

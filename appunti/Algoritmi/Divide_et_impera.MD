@@ -21,16 +21,21 @@ y
 se dobbiamo fare una ricerca in un array non ordinato non conviene perché la messa in ordine impiega molto tempo e per una sola ricerca non vale la pena farlo, se dobbiamo fare molteplici ricerca allora possiamo ordinare l’array 
 ```cpp
 //ricerca binaria 
-bool ricercabinaria(int v[],int x ,int in,int fin ){
-    if (in>=fin)return((in=fin)&&(x==v[in]))
+bool ricercabinaria(int v[], int x, int in, int fin) {
+    if (in > fin) 
+        return false; // The element is not found
     else {
-        int medio=(in+fin)/2;
-        if (v[medio]<x) {in=medio+1;}
-        else if (v[medio]>x) {fin=medio-1;}
-        else {in=fin=medio};
-				return ricercaBinaria (v,x,in.fin);
+        int medio = (in + fin) / 2; // Calculate the mid index
+        if (v[medio] < x) {
+            return ricercabinaria(v, x, medio + 1, fin); // Search in the right half
+        } else if (v[medio] > x) {
+            return ricercabinaria(v, x, in, medio - 1); // Search in the left half
+        } else {
+            return true; // Element found
+        }
     }
 }
+
 ```
 ## bubble sort
 
