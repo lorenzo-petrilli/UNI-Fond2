@@ -45,3 +45,4 @@ Ogni cartella contiene un argomento diverso con codici di esempio ed eventualmen
  [Approccio Divide Et Impera](./appunti/Algoritmi/Divide_et_impera.MD)
  ### Implementazioni
  * [Ricerca_binaria](./appunti/Algoritmi/Ricerca_binaria.h)
+ * [Ricerca binaria ricorsiva](./appunti/Algoritmi/Ricerca_binaria_ricorsiva.h)
